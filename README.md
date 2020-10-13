@@ -1,4 +1,4 @@
-# CV
+# Onboarding CV Project
 Goals:
 - Load image files (DICOM, PNG), resize to custom dimensions (e.g. (299, 299)), then write to numpy files.
 - Combine breast density information with resized image files and write to numpyz files.
